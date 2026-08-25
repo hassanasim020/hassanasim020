@@ -44,5 +44,5 @@ authentication, posts, voting, comments, and multimedia support.
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/muhammad-hassan-asim-004308214/
-- Portfolio: YOUR_PORTFOLIO_URL
-- Email: YOUR_PUBLIC_EMAIL
+- Portfolio: https://muhammad-hassan-asim.vercel.app/
+- Email: hassan.asim02@outlook.com
