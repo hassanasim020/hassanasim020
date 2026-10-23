@@ -18,7 +18,7 @@ DevOps, and scalable distributed systems.
 
 ## Featured Projects
 
-### EntryFlow
+### VeriShift 
 A mobile attendance and workforce tracking solution featuring attendance
 management, location tracking, authentication, and API integration.
 
@@ -30,9 +30,6 @@ vibration alerts, crash detection, GPS, and TinyML.
 A React Native application supporting order management, live location
 tracking, delivery status workflows, and real-time communication.
 
-### SochAI Chat
-A mobile chatbot and social platform featuring real-time messaging,
-authentication, posts, voting, comments, and multimedia support.
 
 ## Current Focus
 
@@ -44,5 +41,5 @@ authentication, posts, voting, comments, and multimedia support.
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/muhammad-hassan-asim-004308214/
-- Portfolio: https://muhammad-hassan-asim.vercel.app/
+- Portfolio: https://hassanasim-02.web.app/
 - Email: hassan.asim02@outlook.com
